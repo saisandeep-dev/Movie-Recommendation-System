@@ -24,9 +24,6 @@ To get your personalized movie recommendations:
 To explore the Colab notebook for detailed code implementation and analysis, click [here](https://colab.research.google.com/github/virajbhutada/ybi_foundation-task/blob/main/Movie%20Recommendation%20System/Movie_Recommendation_System_Colab%20(1).ipynb)
 
 ## Feedback
-
-I value your feedback! If you have any questions, suggestions, or issues, please feel free to contact me.
-
 Enjoy your cinematic journey with Movie Match!
 
 ----
